@@ -1,0 +1,15 @@
+.text-node-textarea {
+  resize: none;
+  overflow: hidden;
+  min-height: 40px;
+  font-family: inherit;
+}
+
+.text-node-variables {
+  margin-top: 4px;
+  padding: 4px 8px;
+  background: #f1f5f9;
+  border-radius: 4px;
+  font-size: 11px;
+  color: #475569;
+}
