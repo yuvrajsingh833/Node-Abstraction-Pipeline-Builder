@@ -289,4 +289,4 @@ This project is part of a technical assessment for VectorShift.
 
 ## 👤 Contact
 
-For questions, please reach out to recruiting@vectorshift.ai
+For questions, please reach out to yuvrajsingh1034@gmail.com
